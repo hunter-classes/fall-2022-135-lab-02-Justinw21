@@ -4,7 +4,7 @@ CSCI-135
 Instructor: Michael Zamansky
 Assignment: Lab 2B
 
-Compiled with funcs.cpp to print all integers from -5 to 20 (Not including 20)
+Compiled with funcs.cpp to print all integers from two user input integers
 */
 #include "funcs.h"
 #include <iostream>
